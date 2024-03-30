@@ -100,6 +100,50 @@
      </td>
    <td>EP02</td>
   </tr>
+  <tr> <!--US09-->
+    <td>US09</td>
+   <td>Crear Perfil de Organización</td>
+   <td>Como representante de un refugio o una organización de rescate, quiero poder crear un perfil para mi organización, incluyendo información sobre nuestra misión, las mascotas que tenemos disponibles para adopción y cómo contactarnos.</td>
+   <td>
+   <strong>Dado que</strong> la organización no tiene un perfil en la aplicación<br>
+   <strong>Cuando</strong> el representante de la organización ingresa la información de la organización<br>
+   <strong>Entonces</strong> la aplicación crea el perfil de la organización
+   </td>
+   <td>EP03</td>
+  </tr>
+  <tr> <!--US10-->   
+  <td>US10</td>
+   <td>Añadir Mascotas</td>
+   <td>Como representante de un refugio o una organización de rescate, quiero poder añadir fotos y videos de las mascotas disponibles para adopción, así como editar su información.</td>
+   <td>
+   <strong>Dado que</strong> la organización tiene nuevas mascotas disponibles<br>
+   <strong>Cuando</strong> el representante de la organización ingresa la información de la mascota<br>
+   <strong>Entonces</strong> la aplicación añade la mascota al perfil de la organización
+   </td>
+   <td>EP03</td>
+  </tr>
+  <tr> <!--US11-->   
+    <td>US11</td>
+    <td>Leer sobre Adopción Responsable</td>
+    <td>Como usuario general, quiero poder encontrar información sobre la adopción responsable de mascotas para poder tomar una decisión informada antes de adoptar.</td>
+    <td>
+    <strong>Dado que</strong> el usuario quiere saber más sobre la adopción responsable<br>
+    <strong>Cuando</strong> el usuario hace clic en la sección de "Adopción Responsable"<br>
+    <strong>Entonces</strong> la aplicación muestra información sobre el tema
+    </td>
+    <td>EP05</td>
+  </tr>
+  <tr> <!--US12-->   
+   <td>US12</td>
+   <td>Conocer Organizaciones de Protección Animal</td>
+   <td>Como usuario general, quiero poder conocer las diferentes organizaciones que trabajan en la protección de animales en mi ciudad para poder apoyar su labor.</td>
+   <td>
+   <strong>Dado que</strong> el usuario quiere ayudar a los animales<br>
+   <strong>Cuando</strong> el usuario busca una organización en la aplicación<br>
+   <strong>Entonces</strong> la aplicación muestra una lista de organizaciones en la zona
+   </td>
+   <td>EP05</td>
+  </tr>
   </tr>
   </tbody>
 <table>
