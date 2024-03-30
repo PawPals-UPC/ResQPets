@@ -48,5 +48,15 @@
       <strong>Entonces</strong> Se registrara la cuenta de la organización en el sitio web</td>
       <td>EP01</td>
     </tr>
+    <tr>    
+     <td>US04</td>
+     <td>Buscar Mascotas</td>
+     <td>Como adoptante potencial, quiero poder buscar mascotas disponibles para adopción por raza, edad, sexo, tamaño y ubicación.</td>
+     <td>
+     <strong>Dado que</strong> el usuario está buscando una mascota<br>
+     <strong>Cuando</strong> el usuario ingresa los criterios de búsqueda<br>
+     <strong>Entonces</strong> la aplicación muestra una lista de mascotas que coinciden con los criterios</td>
+     <td>EP01</td>
+  </tr>
   </tbody>
 <table>
