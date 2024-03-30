@@ -67,10 +67,39 @@
      <strong>Entonces</strong> la aplicación muestra la información completa de la mascota</td>
      <td>EP01</td>
     </tr>
-  
-
-
-      
+    <tr> <!--US06-->
+      <td>US06</td>
+     <td>Contactar con la Organización</td>
+     <td>Como adoptante potencial, quiero poder contactar con la organización responsable de la mascota que me interesa para hacer preguntas y programar una visita.</td>
+     <td>
+     <strong>Dado que</strong> el usuario quiere más información sobre una mascota<br>
+     <strong>Cuando</strong> el usuario hace clic en el botón de contacto<br>
+     <strong>Entonces</strong> la aplicación muestra la información de contacto de la organización
+     </td>
+     <td>EP01</td>
+    </tr>
+    <tr> <!--US07-->
+      <td>US07</td>
+     <td>Completar Formulario de Adopción</td>
+     <td>Como adoptante potencial, quiero poder completar un formulario de adopción online para iniciar el proceso de adopción de la mascota que he elegido.</td>
+     <td>
+     <strong>Dado que</strong> el usuario ha decidido adoptar una mascota<br>
+     <strong>Cuando</strong> el usuario hace clic en el botón de "Adoptar"<br>
+     <strong>Entonces</strong> la aplicación muestra el formulario de adopción
+     </td>
+   <td>EP02</td>
+  </tr>
+  <tr> <!--US08-->    
+    <td>US08</td>
+     <td>Recibir Notificaciones</td>
+     <td>Como adoptante potencial, quiero recibir notificaciones sobre el estado de mi solicitud de adopción para poder estar al tanto del proceso.</td>
+     <td>
+     <strong>Dado que</strong> el usuario ha enviado una solicitud de adopción<br>
+     <strong>Cuando</strong> hay un cambio en el estado de la solicitud<br>
+     <strong>Entonces</strong> la aplicación envía una notificación al usuario
+     </td>
+   <td>EP02</td>
+  </tr>
   </tr>
   </tbody>
 <table>
