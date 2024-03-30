@@ -144,6 +144,39 @@
    </td>
    <td>EP05</td>
   </tr>
+  <tr> <!--US13-->   
+     <td>US13</td>
+     <td>Donar a Organizaciones</td>
+     <td>Como usuario general, quiero poder donar a organizaciones que ayudan a animales en situación de calle para contribuir a su bienestar.</td>
+     <td>
+     <strong>Dado que</strong> el usuario quiere apoyar a las organizaciones<br>
+     <strong>Cuando</strong> el usuario accede a la sección de donaciones<br>
+     <strong>Entonces</strong> la aplicación muestra diferentes métodos para realizar donaciones (ej. tarjeta de crédito, transferencia bancaria)
+     </td>
+     <td>EP05</td>
+  </tr>
+<tr>  <!--US14--> 
+  <td>US14</td>
+   <td>Favoritos</td>
+   <td>Como usuario general o adoptante potencial, quiero poder marcar mascotas como favoritas para recibir notificaciones cuando haya una mascota que coincida con sus preferencias.</td>
+   <td>
+   <strong>Dado que</strong> el usuario ha encontrado una mascota que le interesa<br>
+   <strong>Cuando</strong> el usuario selecciona la opción de "favorito"<br>
+   <strong>Entonces</strong> la aplicación guarda la mascota en una lista de favoritos
+   </td>
+   <td>EP07</td>
+  </tr>
+<tr> <!--US15-->  
+  <td>US15</td>
+   <td>Compartir en Redes Sociales</td>
+   <td>Como usuario general o adoptante potencial, quiero poder compartir información sobre mascotas disponibles para adopción en mis redes sociales para ayudar a crear conciencia sobre el problema del abandono animal.</td>
+   <td>
+   <strong>Dado que</strong> el usuario quiere ayudar a encontrar un hogar a las mascotas<br>
+   <strong>Cuando</strong> el usuario selecciona la opción de compartir<br>
+   <strong>Entonces</strong> la aplicación permite compartir la información de la mascota en redes sociales populares
+   </td>
+   <td>EP07</td>
+  </tr>
   </tr>
   </tbody>
 <table>
