@@ -48,7 +48,7 @@
       <strong>Entonces</strong> Se registrara la cuenta de la organización en el sitio web</td>
       <td>EP01</td>
     </tr>
-    <tr>    
+    <tr> <!--US04-->
      <td>US04</td>
      <td>Buscar Mascotas</td>
      <td>Como adoptante potencial, quiero poder buscar mascotas disponibles para adopción por raza, edad, sexo, tamaño y ubicación.</td>
@@ -57,6 +57,20 @@
      <strong>Cuando</strong> el usuario ingresa los criterios de búsqueda<br>
      <strong>Entonces</strong> la aplicación muestra una lista de mascotas que coinciden con los criterios</td>
      <td>EP01</td>
+    <tr> <!--US05--> 
+     <td>US05</td>
+     <td>Ver Perfil de Mascota</td>
+     <td>Como adoptante potencial, quiero poder ver el perfil de una mascota específica, incluyendo fotos, videos, información sobre su raza, edad, sexo, tamaño, temperamento y necesidades especiales.</td>
+     <td>
+     <strong>Dado que</strong> el usuario ha encontrado una mascota que le interesa<br>
+     <strong>Cuando</strong> el usuario hace clic en el perfil de la mascota<br>
+     <strong>Entonces</strong> la aplicación muestra la información completa de la mascota</td>
+     <td>EP01</td>
+    </tr>
+  
+
+
+      
   </tr>
   </tbody>
 <table>
