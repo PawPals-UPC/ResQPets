@@ -220,12 +220,15 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
+PawPals es una startup dedicada al bienestar de las mascotas y la tranquilidad de sus dueños. Reconociendo la creciente preocupación de los propietarios de mascotas sobre quién cuida a sus animales cuando no pueden hacerlo, nos esforzamos por ofrecer soluciones prácticas y significativas.
 
+A través de su propuesta de solución, PetParadise, aborda esta preocupación al conectar a los dueños de mascotas con cuidadores de confianza que ofrecen servicios de alojamiento, paseos, y otros cuidados específicos para mascotas. Con un enfoque en la seguridad y el bienestar animal, PetParadise proporciona una plataforma donde los usuarios pueden leer reseñas verificadas, verificar antecedentes y comunicarse directamente con los cuidadores antes de reservar sus servicios.
 
+Nuestro startup aprovecha la tecnología para proporcionar tranquilidad y confianza a los dueños de mascotas mientras están lejos de sus amados compañeros peludos.
 
 |Misión|Visión|
 |------|------|
-| | |
+| Proporcionar tranquilidad y confianza a los propietarios de mascotas al ofrecer soluciones prácticas y significativas para el cuidado de sus animales cuando no pueden hacerlo personalmente. A través de nuestra plataforma PetParadise, conectamos a los dueños de mascotas con cuidadores de confianza que ofrecen servicios de alojamiento, paseos y cuidados específicos, todo con un enfoque en la seguridad y el bienestar animal.|Ser el principal recurso global para el cuidado de mascotas, estableciendo un estándar de excelencia en la industria y siendo reconocidos como la opción de confianza para los propietarios de mascotas que buscan soluciones seguras y confiables para el cuidado de sus animales, aprovechando la tecnología para proporcionar una experiencia sin preocupaciones y enriquecedora tanto para las mascotas como para sus dueños.|
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -244,22 +247,32 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 ## 1.2. Solution Profile
 ### 1.2.1	Antecedentes y problemática
-
+La problemática del bienestar de las mascotas que se quedan solas por largos períodos es una preocupación creciente en la sociedad actual. La ausencia prolongada de compañía y atención puede tener consecuencias negativas en la salud emocional y física de las mascotas, afectando su calidad de vida y bienestar general. Esta situación se agrava aún más cuando los propietarios no tienen alternativas viables para asegurar el cuidado adecuado de sus mascotas durante su ausencia.
+ 
+Esta problemática también puede derivar en comportamientos no deseados, como la ansiedad por separación y la agresión, lo que puede generar estrés tanto para las mascotas como para sus propietarios. Además, la falta de compañía y estímulo puede llevar a un aumento en la obesidad y otros problemas de salud en las mascotas, debido a la falta de ejercicio y actividad física.
+ 
+Otro aspecto a considerar es el impacto en el bienestar psicológico de los propietarios, quienes pueden experimentar sentimientos de culpa y preocupación por dejar a sus mascotas solas durante largos períodos. Esta situación puede afectar negativamente su calidad de vida y bienestar emocional, creando un ciclo de estrés y ansiedad para ambas partes.
+ 
+En este contexto, es crucial explorar soluciones que aborden de manera efectiva esta problemática, brindando alternativas seguras y confiables para el cuidado de las mascotas durante la ausencia de sus propietarios.
 
 **Problemática:**
 
 |<!-- -->|<!-- -->|
 |--------|--------|
-|What (Qué):<br>¿Cuál es el problema?||
-|When (Cuándo):<br>¿Cuándo sucede el problema?||
-|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?||
-|Who (Quienes):<br>¿Quiénes están involucrados?||
-|Why (Por qué):<br>¿Por qué se origina el problema?||
-|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?||
-|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?||
+|What (Qué):<br>¿Cuál es el problema?|La sociedad enfrenta una creciente preocupación por el bienestar de las mascotas dejadas solas por largos períodos. El problema fundamental radica en la falta de opciones confiables y seguras para el cuidado de estas mascotas durante la ausencia de sus propietarios. Esta situación puede provocar estrés y ansiedad tanto en las mascotas como en sus dueños, lo que subraya la necesidad de encontrar soluciones efectivas y confiables para abordar esta problemática de manera integral.|
+|When (Cuándo):<br>¿Cuándo sucede el problema?|La problemática del cuidado de las mascotas solas ocurre de manera continua, sin estar restringida a momentos específicos del año. La ausencia de los propietarios puede ser un desafío constante, lo que subraya la necesidad de soluciones efectivas que aborden este problema de manera constante.|
+|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?|La problemática del cuidado de las mascotas solas ocurre de manera continua, sin estar restringida a momentos específicos del año. La ausencia de los propietarios puede ser un desafío constante, lo que subraya la necesidad de soluciones efectivas que aborden este problema de manera constante.|
+|Who (Quienes):<br>¿Quiénes están involucrados?|Los propietarios de mascotas que necesitan una solución confiable para el cuidado de sus animales durante su ausencia son los principales involucrados. Además, los cuidadores que buscan oportunidades para brindar atención y compañía a las mascotas también son actores clave en esta problemática.|
+|Why (Por qué):<br>¿Por qué se origina el problema?|La falta de opciones seguras y confiables para el cuidado de las mascotas durante la ausencia de sus propietarios es el origen de esta problemática. Esto puede generar estrés y preocupación tanto para las mascotas como para sus propietarios, subrayando la importancia de encontrar soluciones efectivas y confiables como PetParadise.|
+|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?|Este problema afecta a las personas involucradas de varias maneras. Para los animales abandonados, puede significar una vida de sufrimiento en la calle o en refugios abrumados. Para las personas que desean adoptar, puede ser difícil encontrar una mascota que se adapte a sus necesidades y estilo de vida. Además, los centros de adopción enfrentan desafíos para cuidar a un gran número de animales y encontrarles hogares permanentes|
+|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?|Esta problemática afecta a los propietarios de mascotas al limitar sus opciones para asegurar el bienestar de sus animales durante su ausencia. Además, puede generar estrés y preocupación tanto para las mascotas como para sus propietarios, lo que destaca la necesidad de soluciones efectivas y confiables. PetParadise aborda este problema ofreciendo una plataforma en línea que conecta a propietarios con cuidadores confiables, garantizando el bienestar de las mascotas en todo momento.|
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
+Nuestro contexto demanda abordar la dificultad que enfrentan las mascotas dejadas solas por largos períodos al encontrar un cuidado adecuado. La falta de opciones confiables perpetúa esta problemática, generando estrés en las mascotas y sus propietarios.
+Hemos observado un aumento significativo en la preocupación por el bienestar animal, especialmente en el cuidado de mascotas solas. Esta situación ha resultado en un incremento en la población de animales abandonados, generando problemas adicionales de bienestar animal.
+Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer soluciones efectivas para el cuidado de mascotas durante la ausencia de sus propietarios, promoviendo su bienestar y tranquilidad?
+
 #### 1.2.2.2 Lean UX Assumptions
 
 1. **Falta de medios de transporte eficazes:** Al no existir un medio de transporte eficaz, seguro y limpio, se refleja la demanda de un servicio como el que ofrecemos.
