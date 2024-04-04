@@ -301,7 +301,7 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 - **Creemos que** si implementamos medidas sólidas de seguridad de datos en nuestra plataforma. **Sabremos que** hemos tenido exito **cuando** observemos un aumento en el número de registros de usuarios y una disminución en las solicitudes de información sobre seguridad de datos.
 
-- **Creemos que**si enfocamos nuestros esfuerzos en ofrecer una amplia gama de servicios de alta calidad para el cuidado de mascotas. **Sabremos que** hemos tenido exito **cuando** veamos un aumento en la diversidad de servicios reservados y un aumento en las reseñas positivas sobre la calidad del servicio.
+- **Creemos que** si enfocamos nuestros esfuerzos en ofrecer una amplia gama de servicios de alta calidad para el cuidado de mascotas. **Sabremos que** hemos tenido exito **cuando** veamos un aumento en la diversidad de servicios reservados y un aumento en las reseñas positivas sobre la calidad del servicio.
 
 
 #### 1.2.2.4. Lean UX Canvas
