@@ -306,14 +306,18 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 #### 1.2.2.4. Lean UX Canvas
 
-### Estudiantes universitarios urbanos:
-- **Descripción**: Estudiantes que viven en áreas urbanas y asisten a universidades o institutos locales.
-- **Necesidades y deseos**: Necesitan un medio de transporte económico y conveniente para desplazarse entre su hogar, el campus universitario, bibliotecas y otros lugares de interés cercanos. Desean una forma rápida y sencilla de moverse sin depender del transporte público o el automóvil.
-- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos principalmente durante los días de clase y para actividades recreativas los fines de semana. Prefieren rutas seguras y accesibles que les permitan evitar el tráfico y llegar a sus destinos rápidamente.
-### Ciudadanos en busca de movilidad rápida y evitando el tráfico:
-- **Descripción**: Personas que viven o trabajan en áreas urbanas y buscan una forma rápida de desplazarse evitando el tráfico.
-- **Necesidades y deseos**: Desean una opción de transporte ágil que les permita llegar a sus destinos de manera rápida y sin los retrasos causados por el tráfico. Valorizan la conveniencia y la eficiencia en sus desplazamientos diarios.
-- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos como una alternativa al automóvil o al transporte público, especialmente durante las horas pico de tráfico. Prefieren rutas menos congestionadas y opciones que les permitan moverse de manera rápida y fluida por la ciudad.
+### Propietarios de mascotas ocupados:
+- **Descripción**: Este segmento incluye a personas con horarios ocupados debido a compromisos laborales u otros compromisos, que necesitan servicios de cuidado de mascotas confiables cuando no pueden atender a sus animales personalmente.
+- **Necesidades y deseos**: Necesitan una solución conveniente y confiable para garantizar el bienestar de sus mascotas durante sus ausencias. 
+- Buscan una plataforma que les proporcione acceso rápido a cuidadores de confianza para cubrir sus necesidades de cuidado de mascotas en momentos de apuro.
+- **Comportamiento de uso**: Utilizan la plataforma para reservar servicios de cuidado de mascotas en función de su horario ocupado y necesidades específicas.
+- Podrían realizar reservas de última hora y buscar cuidadores disponibles de inmediato debido a imprevistos en su agenda.
+### Propietarios de mascotas que viajan con frecuencia:
+- **Descripción**: Este segmento comprende a individuos que viajan con regularidad por trabajo o placer y necesitan servicios de cuidado de mascotas durante sus ausencias prolongadas.
+- **Necesidades y deseos**: Requieren una solución confiable para garantizar que sus mascotas estén bien atendidas mientras están fuera de casa.
+- Buscan una plataforma que les proporcione opciones flexibles para el cuidado de sus mascotas durante períodos prolongados de ausencia.
+- **Comportamiento de uso**: Utilizan la plataforma para programar servicios de cuidado de mascotas con anticipación para cubrir sus necesidades durante sus viajes programados.
+- Podrían buscar servicios adicionales, como alojamiento a largo plazo, para sus mascotas durante períodos extendidos de ausencia.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
