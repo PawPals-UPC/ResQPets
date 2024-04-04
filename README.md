@@ -309,15 +309,15 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 ### Propietarios de mascotas ocupados:
 - **Descripción**: Este segmento incluye a personas con horarios ocupados debido a compromisos laborales u otros compromisos, que necesitan servicios de cuidado de mascotas confiables cuando no pueden atender a sus animales personalmente.
 - **Necesidades y deseos**: Necesitan una solución conveniente y confiable para garantizar el bienestar de sus mascotas durante sus ausencias. 
-- Buscan una plataforma que les proporcione acceso rápido a cuidadores de confianza para cubrir sus necesidades de cuidado de mascotas en momentos de apuro.
+   Buscan una plataforma que les proporcione acceso rápido a cuidadores de confianza para cubrir sus necesidades de cuidado de mascotas en momentos de apuro.
 - **Comportamiento de uso**: Utilizan la plataforma para reservar servicios de cuidado de mascotas en función de su horario ocupado y necesidades específicas.
-- Podrían realizar reservas de última hora y buscar cuidadores disponibles de inmediato debido a imprevistos en su agenda.
+   Podrían realizar reservas de última hora y buscar cuidadores disponibles de inmediato debido a imprevistos en su agenda.
 ### Propietarios de mascotas que viajan con frecuencia:
 - **Descripción**: Este segmento comprende a individuos que viajan con regularidad por trabajo o placer y necesitan servicios de cuidado de mascotas durante sus ausencias prolongadas.
 - **Necesidades y deseos**: Requieren una solución confiable para garantizar que sus mascotas estén bien atendidas mientras están fuera de casa.
-- Buscan una plataforma que les proporcione opciones flexibles para el cuidado de sus mascotas durante períodos prolongados de ausencia.
+   Buscan una plataforma que les proporcione opciones flexibles para el cuidado de sus mascotas durante períodos prolongados de ausencia.
 - **Comportamiento de uso**: Utilizan la plataforma para programar servicios de cuidado de mascotas con anticipación para cubrir sus necesidades durante sus viajes programados.
-- Podrían buscar servicios adicionales, como alojamiento a largo plazo, para sus mascotas durante períodos extendidos de ausencia.
+  Podrían buscar servicios adicionales, como alojamiento a largo plazo, para sus mascotas durante períodos extendidos de ausencia.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
