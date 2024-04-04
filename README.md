@@ -289,16 +289,20 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 7. **Valoración de la confiabilidad y la consistencia en el servicio:** Los usuarios esperan que los cuidadores proporcionen un servicio confiable y consistente, lo que influirá en su decisión de repetir la reserva y recomendar la plataforma a otros propietarios de mascotas.
 
-8. **Interés en la calidad y variedad de los servicios ofrecidos:** Los propietarios de mascotas buscan una amplia gama de servicios de cuidado de mascotas, desde paseos hasta alojamiento, y valoran la calidad y la variedad de opciones disponibles en la plataforma..
+8. **Interés en la calidad y variedad de los servicios ofrecidos:** Los propietarios de mascotas buscan una amplia gama de servicios de cuidado de mascotas, desde paseos hasta alojamiento, y valoran la calidad y la variedad de opciones disponibles en la plataforma.
+   
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que** al brindar una manera eficaz, segura y limpia de transportarse a los usuarios, se sentiran mas atraidos a utilizar el medio de transporte que utilizamos. **Sabremos que** hemos tenido exito, **cuando** veamos una mayor cantidad de usuarios utilizando el producto y utilizando los beneficios que les brindamos.
+- **Creemos que**  si priorizamos la transparencia y la claridad en la información proporcionada por los cuidadores en nuestra plataforma. **Sabremos que** hemos tenido exito, **cuando** observemos un aumento en la tasa de reserva y una disminución en las consultas sobre información adicional.
 
-- **Creemos que** al brindar alternativas de transporte limpio a la población, reduciremos la problematica de la contaminación en el país. **Sabremos que** hemos tenido exito **cuando** se evidencie una mejora en la contaminación presente actualmente.
+- **Creemos que** si diseñamos una experiencia de usuario intuitiva y fácil de usar en nuestra plataforma. **Sabremos que** hemos tenido exito **cuando** veamos una mayor retención de usuarios y una disminución en las tasas de abandono durante el proceso de reserva.
 
-- **Creemos que** al brindar una aplicación facil y comoda de usar, podremos llegar a publico que usualmente no se encontraria atraido a este tipo de transportes. **Sabremos que** hemos tenido exito **cuando** podamos observar una mayor variedad y cantidad de personas utilizando nuestro producto.
+- **Creemos que** si facilitamos la comunicación directa entre los propietarios de mascotas y los cuidadores antes de la reserva. **Sabremos que** hemos tenido exito **cuando** observemos un aumento en la interacción entre usuarios y cuidadores y un mayor número de reseñas positivas después de las reservas.
 
-- **Creemos que** al brindar alternativas a los automoviles tradicionales, lograremos disminuir el tiempo perdido por trafico de carros en la ciudad. **Sabremos que** hemos tenido exito **cuando** se evidencie que los usuarios comenten sobre sus resultados en la pagina.
+- **Creemos que** si implementamos medidas sólidas de seguridad de datos en nuestra plataforma. **Sabremos que** hemos tenido exito **cuando** observemos un aumento en el número de registros de usuarios y una disminución en las solicitudes de información sobre seguridad de datos.
+
+- **Creemos que**si enfocamos nuestros esfuerzos en ofrecer una amplia gama de servicios de alta calidad para el cuidado de mascotas. **Sabremos que** hemos tenido exito **cuando** veamos un aumento en la diversidad de servicios reservados y un aumento en las reseñas positivas sobre la calidad del servicio.
+
 
 #### 1.2.2.4. Lean UX Canvas
 
