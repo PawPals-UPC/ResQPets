@@ -275,26 +275,21 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 #### 1.2.2.2 Lean UX Assumptions
 
-1. **Falta de medios de transporte eficazes:** Al no existir un medio de transporte eficaz, seguro y limpio, se refleja la demanda de un servicio como el que ofrecemos.
+1. **Preferencia por la comodidad y la accesibilidad:** Los propietarios de mascotas valoran la conveniencia y la facilidad de acceso a los servicios de cuidado de mascotas, lo que influirá en su elección de plataforma..
 
-2. **Precios elevados de combustible:** Al existir un alza de precios en los combustibles utilizados por los vehiculos convencionales, los usuarios buscaran una alternativa, respaldando la viabilidad de nuestro negocio centrado en vehiculos no convencionales.
+2. **Confianza en las recomendaciones de amigos y familiares:** Los usuarios confiarán en las recomendaciones personales de amigos y familiares al buscar servicios de cuidado de mascotas, buscando plataformas que faciliten compartir y recibir recomendaciones.
 
-3. **La tecnologia ayudara a los usuarios a acceder rapidamente a vehiculos:** Al brindarle al usuario una alternativa tecnologica con la que pueda encontrar vehiculos de manera sencilla se puede mejorar la experiencia de los usuarios y lograr tener un mayor alcance.
+3. **Satisfacción con la experiencia del usuario:** La experiencia del usuario en la plataforma, desde la navegación hasta la reserva de servicios, influirá en su satisfacción general y lealtad hacia la marca.
 
-4. **Existe una preocupación ambiental por parte de la poblacion:** Al mostrar una solución que puede mejorar las soluciones existentes a la problematica ambiental podemos lograr un mayor interes por parte de los usuarios en nuestro producto.
+4. **Valoración de la transparencia y la claridad:** Los usuarios valoran la transparencia en la información proporcionada por los cuidadores, como los servicios ofrecidos, las tarifas y las políticas, lo que afectará su decisión de reserva.
 
-5. **Los transportes convencionales tambien se verian beneficiados:** Al ofrecer alternativas de transporte para las personas, podriamos tambien resolver en parte la congestión vehicular en algunas zonas, beneficiando tambien a los medios de transporte convencionales.
+5. **Preocupación por la seguridad de los datos personales:** Los propietarios de mascotas priorizan la seguridad y la privacidad de sus datos personales y financieros al utilizar plataformas en línea, lo que afectará su disposición a registrarse y utilizar la plataforma.
 
-6. **Entre los beneficios que estarán a disposición del usuario, se encuentran:**
+6. **Deseo de involucrarse en el proceso de cuidado de mascotas:** Los propietarios de mascotas desean participar activamente en el cuidado de sus animales, buscando plataformas que les permitan comunicarse directamente con los cuidadores y compartir instrucciones específicas.
 
-- **Facilidad de encontrar alternativas a los medios de transporte convencionales:** Los usuarios podran encontrar alternativas a sus medios de transporte tradicionales de manera sencilla por medio de nuestro producto, mejorando su experiencia en general al no presentar dificultades al movilizarse.
+7. **Valoración de la confiabilidad y la consistencia en el servicio:** Los usuarios esperan que los cuidadores proporcionen un servicio confiable y consistente, lo que influirá en su decisión de repetir la reserva y recomendar la plataforma a otros propietarios de mascotas.
 
-- **Mejora al transportarse:** Se le da a los usuarios una mejora en su transporte tradicional, al usar las alternativas que ofrece nuestro producto pueden lograr moverse de manera mas rapida y comoda.
-
-- **Variedad de opciones:** Los usuarios tendran acceso a diferentes tipos de vehiculos o tarifas, dependiendo de lo que requieran en el momento. Todo el proceso sera por medio de la aplicación, facilitando y mejorando su experiencia. 
-
-- **Satisfacción emocional:** Los usuarios podran ver datos sobre el impacto ambiental de los medios de transporte, dandole satisfacción al usuario al poder ver los resultados de las acciones que realiza en el ambiente.
-
+8. **Interés en la calidad y variedad de los servicios ofrecidos:** Los propietarios de mascotas buscan una amplia gama de servicios de cuidado de mascotas, desde paseos hasta alojamiento, y valoran la calidad y la variedad de opciones disponibles en la plataforma..
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 - **Creemos que** al brindar una manera eficaz, segura y limpia de transportarse a los usuarios, se sentiran mas atraidos a utilizar el medio de transporte que utilizamos. **Sabremos que** hemos tenido exito, **cuando** veamos una mayor cantidad de usuarios utilizando el producto y utilizando los beneficios que les brindamos.
