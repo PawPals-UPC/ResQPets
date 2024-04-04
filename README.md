@@ -5,16 +5,15 @@
 **Ciclo 2024-01**
 
 # COURSE PROJECT
-### Profesor: Elio Jefferrson Navarrete Vilca
-### Curso: Desarrollo de Aplicaciones Open Source
+### Profesor: Alex Humberto Sánchez Ponce
+### Curso: Aplicaciones Web
 # FINAL REPORT
-## Startup: EcoGo
-## Propuesta: EcoMove
+## Startup: Pawpals
+## Propuesta: PetParadise
 **Team Members**
 - Ames Oviedo, Mariano José
-- Coraje Bayona, Jair Andreé
-- Horna Silva, Fabio Ernesto
 - Lecca Choccare, Christopher Bryan
+- Morales Montalvo, Omar Andrew
 - Sosa Colca, Angello Rodolfo
 - Tongo Alejando, Milagros Salet
   
@@ -40,9 +39,8 @@
       <td>20/03/2024</td>
       <td>
         - Ames Oviedo, Mariano José <br>
-        - Coraje Bayona, Jair Andreé <br>
-        - Horna Silva, Fabio Ernesto <br>
         - Lecca Choccare, Christopher Bryan <br>
+        - Morales Montalvo, Omar Andrew <br> 
         - Sosa Colca, Angello Rodolfo <br>
         - Tongo Alejando, Milagros Salet <br>
       </td>
@@ -222,15 +220,12 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
-EcoGo es una startup que surge como respuesta a la creciente preocupación por la movilidad urbana sostenible y la reducción de las emisiones de carbono en entornos urbanos. A través de su propuesta de solución EcoMove, se dedica a facilitar el uso compartido de vehículos eléctricos entre usuarios, con el objetivo de disminuir la dependencia de los vehículos de combustión interna y fomentar un estilo de vida más respetuoso con el medio ambiente.
 
-EcoGo no solo ofrece una plataforma para alquilar vehículos eléctricos de manera conveniente, sino que también colabora con empresas locales y marcas comprometidas con la sostenibilidad. A través de alianzas estratégicas, proporciona recursos adicionales para expandir su flota de vehículos y mejorar la infraestructura de carga, promoviendo así el uso de energía limpia en el transporte.
 
-EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos eléctricos compartidos, ofreciendo tarifas diferenciadas, membresías con beneficios exclusivos y programas de fidelización para incentivar el uso recurrente de la plataforma y promover un estilo de vida urbano más sostenible.
 
 |Misión|Visión|
 |------|------|
-|Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
+| | |
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -238,12 +233,10 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 |--------|--------|
 |Nombre|Ames Oviedo, Mariano José (U202211371)|
 |Soy Mariano, tengo 18 años actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y dispuesta a afrontar desafíos. Considero que estas cualidades beneficiaran a mi equipo para poder completar un trabajo de calidad.||
-|Nombre|Coraje Bayona, Jair Andreé (U202118775)|
-|Soy Jair, tengo 19 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que puedo adaptarme a las situaciones que se me proponga en el equipo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Adémas siento que mis habilidades para aprender me van a poder ayudar a completar el curso de manera eficiente y apoyar a mi equipo en lo que se pueda..||
-|Nombre|Horna Silva, Fabio Ernesto (U202020229)|
-|.||
 |Nombre|Lecca Choccare, Christopher Bryan (U202211399)|
 |Soy Christopher, tengo 19 años y actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Considero que mi determinación y disposición aportarán de manera significativa a presentar junto a mi equipo, trabajos de calidad. Además, mi capacidad rápida de aprendizaje ayudará a emplear las nuevas tecnologías enseñadas en el curso de forma eficiente.||
+|Nombre|Morales Montalvo, Omar Andrew (U202212383)|
+|Soy Omar Andrew Morales Montalvo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, estoy cursando en quinto ciclo y actualmente tengo 18 años, soy colaborativo, responsable y proactivo, tratando de ayudar a los demás en lo que mi alcance me lo permita. Por ello, actuare de igual manera con mi grupo apoyando en lo más que pueda en los trabajos futuros.||
 |Nombre|Sosa Colca, Angello Rodolfo (U202212027)|
 |Tengo 18 años y curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, soy una persona enfocada, perseverante y colaborativo. Estas cualidades me permiten ser una persona que ayudará de manera óptima el requisito que se me imponga. Además, soy una persona que apoya cuando los demás se encuentran en problemas.||
 |Nombre|Tongo Alejandro, Milagros Salet (U202116078)|
@@ -252,33 +245,21 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 ## 1.2. Solution Profile
 ### 1.2.1	Antecedentes y problemática
 
-La problemática del envejecimiento de la flota vehicular en el transporte público y los servicios de taxi en el Perú es un tema de preocupación creciente debido a sus impactos negativos en la salud pública y el medio ambiente. Según datos proporcionados por un organismo adscrito al Ministerio de Transportes y Comunicaciones (MTC), aproximadamente el 30,6% de los vehículos que operan en el transporte público regular y alrededor del 9% de los vehículos de servicio de taxis tienen una antigüedad de más de 15 años (Espinoza, 2023). Esta situación se traduce en un riesgo significativo para la salud y la seguridad de los usuarios, ya que se estima que los vehículos con más de dos décadas de uso emiten hasta 53 veces más contaminantes que los vehículos más nuevos, los cuales tienen 5 años o menos.
-
-La preocupación por la contaminación atmosférica y la calidad del aire en las ciudades ha llevado a la implementación de diversas medidas por parte de las autoridades locales, como el impuesto sobre vehículos antiguos por parte de la Municipalidad de Lima y el programa "Pico y placa". Este último consistía en restringir la circulación de vehículos basándose en el último dígito de la placa del automóvil, con el objetivo de reducir la cantidad de vehículos en circulación y mejorar el flujo de tráfico. Sin embargo, a pesar de estos esfuerzos, estas medidas no han tenido el éxito esperado y la congestión vehicular sigue siendo un problema significativo en varias zonas de la ciudad (Romero, et al., 2022).
-
-Ante esta problemática, surge la necesidad de explorar alternativas de transporte más sostenibles y eficientes. Una opción prometedora es el uso de scooters eléctricos, que ofrecen una solución viable para evitar la congestión del tráfico y optimizar los tiempos de desplazamiento en distancias cortas. En la práctica, muchas personas utilizan scooters eléctricos para satisfacer sus necesidades de transporte en lo que se conoce como la "última milla", es decir, para conectarse con otros medios de transporte público o para realizar actividades cotidianas como ir al banco, la oficina o el gimnasio. Los scooters eléctricos son especialmente adecuados para viajes cortos de 3 a 7 kilómetros, con una duración promedio de 13 a 15 minutos, lo que los convierte en una opción conveniente y eficiente para los desplazamientos urbanos (Stakeholders, 2023).
 
 **Problemática:**
 
 |<!-- -->|<!-- -->|
 |--------|--------|
-|What (Qué):<br>¿Cuál es el problema?|El problema central que enfrenta la sociedad es la dependencia generalizada de los vehículos de combustión interna en entornos urbanos, lo que resulta en altos niveles de contaminación del aire y emisiones de carbono. Esta situación no solo afecta la calidad del aire y la salud pública, sino que también contribuye al cambio climático y a la degradación ambiental.|
-|When (Cuándo):<br>¿Cuándo sucede el problema?|El problema de la dependencia de los vehículos de combustión interna en entornos urbanos es persistente y ocurre constantemente. Se manifiesta a diario en la congestión del tráfico, la contaminación del aire y la emisión continua de gases de efecto invernadero.|
-|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?|Este problema se presenta principalmente en áreas urbanas densamente pobladas donde hay una alta concentración de vehículos motorizados. Ciudades de todo el mundo enfrentan desafíos similares relacionados con la movilidad urbana y la contaminación del aire.|
-|Who (Quienes):<br>¿Quiénes están involucrados?|Los principales actores involucrados en esta problemática son los residentes urbanos que dependen de los vehículos para sus desplazamientos diarios, así como las autoridades gubernamentales y las empresas de transporte que tienen un papel clave en la formulación de políticas y la implementación de soluciones de movilidad sostenible.|
-|Why (Por qué):<br>¿Por qué se origina el problema?|Este problema surge de varios factores, que incluyen la falta de infraestructura adecuada para el transporte público, la promoción histórica del uso del automóvil privado, la falta de conciencia sobre los impactos ambientales del transporte y la falta de alternativas accesibles y asequibles de movilidad sostenible.|
-|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?|La dependencia de los vehículos de combustión interna afecta a las personas involucradas al contribuir a la contaminación del aire, empeorar la congestión del tráfico, aumentar los costos de transporte y tener impactos negativos en la salud pública y la calidad de vida en general.|
-|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?|El problema de la dependencia de los vehículos de combustión interna tiene un impacto significativo en la sociedad, afectando la salud pública, contribuyendo al cambio climático y la degradación ambiental, aumentando los costos económicos asociados con la congestión del tráfico y generando una baja calidad de vida en las áreas urbanas.|
+|What (Qué):<br>¿Cuál es el problema?||
+|When (Cuándo):<br>¿Cuándo sucede el problema?||
+|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?||
+|Who (Quienes):<br>¿Quiénes están involucrados?||
+|Why (Por qué):<br>¿Por qué se origina el problema?||
+|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?||
+|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?||
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
-Nuestro contexto demanda abordar la dificultad que enfrentan las personas que no pueden conseguir un medio de transporte eficaz y seguro,
-Si bien se presentan opciones, estas no siempre demuestran ser eficaces debido a la congestión vehicular de la ciudad.
-
-Tambien se puede observar una falta de opciones que sean limpias para el medio ambiente. Aunque el estado muestra preocupación  implementando medidas que apoyen a este contexto, aun no se logra una solución eficaz, segura y limpia para todos.
-
-Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer medios de transporte efectivos para las personas y limpios para el bien ambiente, teniendo en cuenta tambien la seguridad y comodidad del usuario?
-
 #### 1.2.2.2 Lean UX Assumptions
 
 1. **Falta de medios de transporte eficazes:** Al no existir un medio de transporte eficaz, seguro y limpio, se refleja la demanda de un servicio como el que ofrecemos.
